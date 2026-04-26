@@ -1,0 +1,13 @@
+[project]
+name = "xiaomi-cloud-tokens-extractor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "colorama>=0.4.6",
+    "image>=1.5.33",
+    "pybase64>=1.4.3",
+    "pycryptodome>=3.23.0",
+    "requests>=2.33.1",
+]
